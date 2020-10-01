@@ -46,7 +46,8 @@ from flask import render_template
 @app.route('/')
 
 *We have Use Templates Inheritance for the ease 
-* 
+
+*
 APIs with JSON¶
 
 A common response format when writing an API is JSON. It’s easy to get started writing such an API with Flask. If you return a dict from a view, it will be converted to a JSON response.
